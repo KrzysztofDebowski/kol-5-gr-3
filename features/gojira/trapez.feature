@@ -7,4 +7,4 @@ Feature: Obliczenia
     And I fill in "b" with "10"
     And I fill in "h" with "2"
     And I press "Oblicz"
-    Then I should see "Wynik wynosi 15"
+    Then I should see "Wynik wynosi 12"
