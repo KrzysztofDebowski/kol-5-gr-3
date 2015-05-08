@@ -7,4 +7,4 @@ Feature: Obliczenia
     And I fill in "B" with "10"
     And I fill in "H" with "6"
     And I press "Oblicz"
-    Then I should see "Wynik wynosi: 51"
+    Then I should see "Wynik to 51"
