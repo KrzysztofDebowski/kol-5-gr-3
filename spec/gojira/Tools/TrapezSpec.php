@@ -21,6 +21,6 @@ class TrapezSpec extends ObjectBehavior
     
     function it_should_calculate_pole()
     {
-        $this->setA(5)->setB(10)->$this->setH(2)->poletrojkata()->shouldReturn(25);
+        $this->setA(5)->setB(10)->$this->setH(2)->poletrojkata()->shouldReturn(15);
     }
 }
